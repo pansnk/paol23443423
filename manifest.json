@@ -1,6 +1,6 @@
 {
-    "name": "panel",
-    "short_name": "panel",
+    "name": "bancolombia",
+    "short_name": "bancolombia",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
